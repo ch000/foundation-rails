@@ -1,10 +1,19 @@
-// Foundation for Sites by ZURB
-// foundation.zurb.com
+// Foundation for Sites
+// https://get.foundation
 // Licensed under MIT Open Source
 
 @import 'math';
 
 $contrast-warnings: true !default;
+
+// Defaults
+$primary-color: null;
+$secondary-color: null;
+$success-color: null;
+$warning-color: null;
+$alert-color: null;
+$-zf-size: null;
+$-zf-bp-value: null;
 
 ////
 /// @group functions
